@@ -7,7 +7,7 @@ package testee;
 
 /**
  *
- * @author lucas
+ * @author lucasR
  */
 public class Testee {
 
